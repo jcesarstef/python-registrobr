@@ -1,5 +1,5 @@
 # python-registrobr
-A tiny library to handle with RegistroBR whois querys
+A tiny python3 library to handle with RegistroBR whois queries
 
 
 ### Motivation
