@@ -2,11 +2,11 @@
 A tiny library to handle with RegistroBR whois querys
 
 
-# Motivation
+### Motivation
 From some troubles to manage Whois queries from brazilian domains/CIDR's with python libraries, i decide to build my own whois library.
 
 
-# Installing (Manual only now, make a Pull request and help me to fix this :D)
+### Installing (Manual only now, make a Pull request and help me to fix this :D)
 ```
 $ git clone https://github.com/jcesarstef/python-registrobr
 
